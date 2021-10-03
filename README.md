@@ -110,16 +110,16 @@
 </td>
     <td align="center">
 
-| group_id | user_id | attribute |
-| :------: | :-----: | :-------- |
+| group_id | user_id | attribute                                                                   |
+| :------: | :-----: | :--------                                                                   |
 | 1        | 1       | "red car, green car, yellow bus, brown cat, purple belt, black coffeemaker" |
 | 1        | 2       | "red car, green car, yellow bus, brown cat, purple belt, black coffeemaker" |
 | 1        | 3       | "red car, green car, yellow bus, brown cat, purple belt, black coffeemaker" |
 | 1        | 4       | "red car, green car, yellow bus, brown cat, purple belt, black coffeemaker" |
 | 1        | 5       | "red car, green car, yellow bus, brown cat, purple belt, black coffeemaker" |
-| 2        | 6       | "black coffee, cow milk, tasty croissant" |
-| 2        | 7       | "black coffee, cow milk, tasty croissant" |
-| 2        | 8       | "black coffee, cow milk, tasty croissant" |
+| 2        | 6       | "black coffee, cow milk, tasty croissant"                                   |
+| 2        | 7       | "black coffee, cow milk, tasty croissant"                                   |
+| 2        | 8       | "black coffee, cow milk, tasty croissant"                                   |
 
 
 </td>
@@ -158,7 +158,7 @@
 
 ### Задание 2
 
-Пришло время подвести итоги эксперимента. Имеются данные для обеих групп (тестовой и контрольной) по: 
+Пришло время подвести итоги эксперимента. Имеются [данные](https://drive.google.com/file/d/1FcqGMpp2x9HIgeOsk5LkPJ0B5O2sry7b/view?usp=sharing) для обеих групп (тестовой и контрольной) по: 
 
 * факту возвращения пользователя в приложение через месяц после его первой сессии (1 Month Retention = 1/0)
 * суммарному Revenue пользователя
